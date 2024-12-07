@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LessonEvaluation</string>
+    <string name="input_text">Введите оценку</string>
+    <string name="color_quality">Цветовое качество</string>
+    <string name="exit">Выход из приложения</string>
+    <string name="application_shutdown_text">Завершение приложения</string>
+    <string name="no_evaluation_text">Такой оценки нет</string>
+    <string name="random_number_text">Случайное число</string>
+    <string name="random_button_mode_text">Режим рандомной кнопки</string>
+    <string name="text_input_mode">Режим ввода текста</string>
+</resources>
